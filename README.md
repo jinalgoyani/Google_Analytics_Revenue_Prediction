@@ -14,6 +14,7 @@ There are main two datasets:
 
 * train.csv - the updated training set - contains user transactions from August 1st 2016 to April 30th 2018.
 * test.csv - the updated test set - contains user transactions from May 1st 2018 to October 15th 2018.
+* baseline.csv - Prepared submission file that predicts revenue generated per customer.
 
 ## Evaluation
 The evaluation metric used for this project is RMSE (Root Mean Squared Error) For more info on evaluation check on : https://www.kaggle.com/competitions/ga-customer-revenue-prediction/overview/evaluation
